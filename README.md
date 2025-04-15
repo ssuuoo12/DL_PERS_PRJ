@@ -69,7 +69,7 @@ streamlit run Pet.py
 
 
 ## 데이터셋
-이 프로젝트는 [Kaggle의 "Collections of Paintings from 50 Artists"]([https://www.kaggle.com/datasets/your-dataset-link](https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time/data)) 데이터셋을 활용했습니다.
+이 프로젝트는 [Kaggle의 "Collections of Paintings from 50 Artists"]([https://www.kaggle.com/datasets/your-dataset-link](https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time/data) 데이터셋을 활용했습니다.
 
 
 ## 슬라이드 보러가기
