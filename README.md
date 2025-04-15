@@ -67,7 +67,7 @@ streamlit run Pet.py
 ### 결과 예시
 아래는 모델이 화가의 스타일을 예측한 결과의 예시입니다:
 ![예측 결과](./images/result.png "화가 스타일 예측 결과")
-![테스트 이미지](./result.png "테스트이미지")
+![테스트 이미지](./test.png "테스트이미지")
 
 ## 데이터셋
 이 프로젝트는 [Kaggle의 "Collections of Paintings from 50 Artists"](https://www.kaggle.com/datasets/your-dataset-link) 데이터셋을 활용했습니다.
